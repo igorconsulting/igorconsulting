@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Data Analytics Project on Youtube's API](https://github.com/igorconsulting/Youtube_API_Anlytics)
 
-- 🌱 I’m currently learning **ML Engineering and Optimization using AWS**
+- 🧑🏽‍💻 I’m currently learning **ML Engineering and Optimization using AWS**
 
-- 👯 I’m looking to collaborate on **private Data Science/Analysis projects and consulting**
+- 🙅🏽‍♂️ I’m looking to collaborate on **private Data Science/Analysis projects and consulting**
 
 - 🤝 I’m looking for help with **Data Science Course/Mentoring**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **caetano_@live.com**
 
-- 📄 Know about my experiences [https://github.com/igorconsulting/igorconsulting/blob/main/CV-resume/my_resume_igorconsulting.pdf](https://github.com/igorconsulting/igorconsulting/blob/main/CV-resume/my_resume_igorconsulting.pdf)
+- 📄 Know about my experiences: [my CV](https://github.com/igorconsulting/igorconsulting/blob/main/CV-resume/my_resume_igorconsulting.pdf)
 
 - ⚡ Fun fact **I love to play Guitar. My favorite band is Dream Theater**
 
