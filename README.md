@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **caetano_@live.com**
 
-- 📄 Know about my experiences: [my CV](https://github.com/igorconsulting/igorconsulting/blob/main/CV-resume/my_resume_igorconsulting.pdf)
+- 📄 Know about my experiences: [my CV](https://github.com/igorconsulting/igorconsulting/blob/main/CV-resume/Resume_IgorCaetanoDiniz.pdf)
 
 - ⚡ Fun fact **I love to play Guitar. My favorite band is Dream Theater**
 
